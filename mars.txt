@@ -7,4 +7,10 @@ Wait, let's add another line to check the diff.
 
 Oh, now we get to add a line to push to the central repository.
 
+Let's keep both:
+
 I LOVE MARS MORE!! Signed, Person_B
+
+I LOVE MARS! Signed, Person_A
+
+Ok, both were kept.
